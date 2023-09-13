@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{022DCB90-46A1-F808-0FC3-6DAAC5A2F15F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "hw1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
